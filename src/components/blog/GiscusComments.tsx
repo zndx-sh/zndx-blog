@@ -14,7 +14,7 @@ export const GiscusComments = () => {
     const script = document.createElement("script");
     script.src = "https://giscus.app/client.js";
     
-    script.setAttribute("data-repo", "zndx-sh/zndx-blog");
+    script.setAttribute("data-repo", "00X1907/0X1907-site");
     script.setAttribute("data-repo-id", "R_kgDORHh4Qw");
     script.setAttribute("data-category", "General");
     script.setAttribute("data-category-id", "DIC_kwDORHh4Q84C15-N");
