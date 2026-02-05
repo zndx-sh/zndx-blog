@@ -207,11 +207,11 @@
   .token.prolog,
   .token.doctype,
   .token.cdata {
-    color: #6a737d;
+    color: #8b949e;
   }
   
   .token.punctuation {
-    color: #e1e4e8;
+    color: #c9d1d9;
   }
   
   .token.property,
@@ -221,7 +221,7 @@
   .token.constant,
   .token.symbol,
   .token.deleted {
-    color: #79b8ff;
+    color: #79c0ff;
   }
   
   .token.selector,
@@ -230,7 +230,7 @@
   .token.char,
   .token.builtin,
   .token.inserted {
-    color: #9ecbff;
+    color: #a5d6ff;
   }
   
   .token.operator,
@@ -238,24 +238,24 @@
   .token.url,
   .language-css .token.string,
   .style .token.string {
-    color: #b392f0;
+    color: #d2a8ff;
   }
   
   .token.atrule,
   .token.attr-value,
   .token.keyword {
-    color: #f97583;
+    color: #ff7b72;
   }
   
   .token.function,
   .token.class-name {
-    color: #b392f0;
+    color: #d2a8ff;
   }
   
   .token.regex,
   .token.important,
   .token.variable {
-    color: #ffab70;
+    color: #ffa657;
   }
   
   /* Light theme syntax */
@@ -263,11 +263,11 @@
   .light .token.prolog,
   .light .token.doctype,
   .light .token.cdata {
-    color: #6a737d;
+    color: #57606a;
   }
   
   .light .token.punctuation {
-    color: #24292e;
+    color: #24292f;
   }
   
   .light .token.property,
@@ -277,7 +277,7 @@
   .light .token.constant,
   .light .token.symbol,
   .light .token.deleted {
-    color: #005cc5;
+    color: #0550ae;
   }
   
   .light .token.selector,
@@ -286,7 +286,7 @@
   .light .token.char,
   .light .token.builtin,
   .light .token.inserted {
-    color: #032f62;
+    color: #0a3069;
   }
   
   .light .token.operator,
@@ -294,24 +294,24 @@
   .light .token.url,
   .light .language-css .token.string,
   .light .style .token.string {
-    color: #6f42c1;
+    color: #8250df;
   }
   
   .light .token.atrule,
   .light .token.attr-value,
   .light .token.keyword {
-    color: #d73a49;
+    color: #cf222e;
   }
   
   .light .token.function,
   .light .token.class-name {
-    color: #6f42c1;
+    color: #8250df;
   }
   
   .light .token.regex,
   .light .token.important,
   .light .token.variable {
-    color: #e36209;
+    color: #953800;
   }
 }
 
